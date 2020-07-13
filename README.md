@@ -9,8 +9,8 @@ problems
 - [leetCode](https://leetcode.com/) 
  
 ## Plans 
-i'll solve all problems in 프로그래머스 3times. 
-and then save the code this repo. 
-if i solve all problmes 3times, i challenge codes in leetcode. 
-and i save the code too. 
+i'll solve all problems in 프로그래머스 3times.  
+and then save the code this repo.   
+if i solve all problmes 3times, i challenge codes in leetcode.  
+and i save the code too.  
 
